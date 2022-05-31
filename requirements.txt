@@ -3,7 +3,9 @@ tqdm
 mlflow
 pandas
 numpy
+scikit-learn
 PyYAML
+tensorflow
 
 ### local packages -
-# -e . # << uncomment this to install from setup.py
+-e . # << uncomment this to install from setup.py
